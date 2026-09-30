@@ -1,5 +1,5 @@
 ---
-title: Old Blogs
+title: QuickHeal Blogs
 date: 2025-01-01
 layout: post
 categories: [Research, Security]
