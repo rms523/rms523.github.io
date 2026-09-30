@@ -1,6 +1,6 @@
 ---
 title: Trellix Blogs
-date: 2026-09-29
+date: 2025-12-18
 layout: post
 categories: [Research, Security]
 tags: [Malware Analysis, Stealer]
